@@ -78,14 +78,14 @@
       "requireSameDimensions": true
     },
     {
-      "label": "Luno Blog Page",
+      "label": "Luno Blog",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url": "http://localhost:9000/blog",
       "referenceUrl": "",
       "readyEvent": "",
       "readySelector": "",
       "delay": 0,
-      "hideSelectors": [],
+      "hideSelectors": [".blog-card-hero", ".ln-card .promoted-img"],
       "removeSelectors": [],
       "hoverSelector": "",
       "clickSelector": "",
