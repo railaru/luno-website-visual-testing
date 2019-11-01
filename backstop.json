@@ -147,6 +147,25 @@
       "expect": 0,
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
+    },
+    {
+      "label": "Luno Who We Are Page",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "http://localhost:9000/careers/who-we-are",
+      "referenceUrl": "",
+      "readyEvent": "",
+      "readySelector": "app-root",
+      "delay": 0,
+      "hideSelectors": [".lunaut-images--wrap--block--icon", ".gallery--wrap img"],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
     }
   ],
   "paths": {
