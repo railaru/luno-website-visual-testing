@@ -6,3 +6,4 @@ test comments & exceptions:
 / homepage: testimonials are randomized everytime a page loads which cause differences as compared to the baseline
 /blog: .blog-card-hero (backgound images sometimes include GIFs which move after creating the baseline which may brake the tests)
 /price: wait for <app-price/> to load on the DOM before taking snapshots. Ignore <google-chart> as the price will change overtime 
+/careers/jobs: ignore .gallery--wrap img because they're generated randomly and change each time user reloads the page
