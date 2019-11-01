@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Luno_Homepage_0_document_0_phone.png",
-        "test": "../bitmaps_test/20191101-163030/backstop_default_Luno_Homepage_0_document_0_phone.png",
+        "test": "../bitmaps_test/20191101-163910/backstop_default_Luno_Homepage_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Luno_Homepage_0_document_0_phone.png",
         "label": "Luno Homepage",
@@ -28,7 +28,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Luno_Homepage_0_document_1_laptop.png",
-        "test": "../bitmaps_test/20191101-163030/backstop_default_Luno_Homepage_0_document_1_laptop.png",
+        "test": "../bitmaps_test/20191101-163910/backstop_default_Luno_Homepage_0_document_1_laptop.png",
         "selector": "document",
         "fileName": "backstop_default_Luno_Homepage_0_document_1_laptop.png",
         "label": "Luno Homepage",
@@ -52,7 +52,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Luno_Business_Page_0_document_0_phone.png",
-        "test": "../bitmaps_test/20191101-163030/backstop_default_Luno_Business_Page_0_document_0_phone.png",
+        "test": "../bitmaps_test/20191101-163910/backstop_default_Luno_Business_Page_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Luno_Business_Page_0_document_0_phone.png",
         "label": "Luno Business Page",
@@ -76,7 +76,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Luno_Business_Page_0_document_1_laptop.png",
-        "test": "../bitmaps_test/20191101-163030/backstop_default_Luno_Business_Page_0_document_1_laptop.png",
+        "test": "../bitmaps_test/20191101-163910/backstop_default_Luno_Business_Page_0_document_1_laptop.png",
         "selector": "document",
         "fileName": "backstop_default_Luno_Business_Page_0_document_1_laptop.png",
         "label": "Luno Business Page",
@@ -100,7 +100,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Luno_Learn_Page_0_document_0_phone.png",
-        "test": "../bitmaps_test/20191101-163030/backstop_default_Luno_Learn_Page_0_document_0_phone.png",
+        "test": "../bitmaps_test/20191101-163910/backstop_default_Luno_Learn_Page_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Luno_Learn_Page_0_document_0_phone.png",
         "label": "Luno Learn Page",
@@ -124,7 +124,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Luno_Learn_Page_0_document_1_laptop.png",
-        "test": "../bitmaps_test/20191101-163030/backstop_default_Luno_Learn_Page_0_document_1_laptop.png",
+        "test": "../bitmaps_test/20191101-163910/backstop_default_Luno_Learn_Page_0_document_1_laptop.png",
         "selector": "document",
         "fileName": "backstop_default_Luno_Learn_Page_0_document_1_laptop.png",
         "label": "Luno Learn Page",
@@ -148,7 +148,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Luno_Blog_Page_0_document_0_phone.png",
-        "test": "../bitmaps_test/20191101-163030/backstop_default_Luno_Blog_Page_0_document_0_phone.png",
+        "test": "../bitmaps_test/20191101-163910/backstop_default_Luno_Blog_Page_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Luno_Blog_Page_0_document_0_phone.png",
         "label": "Luno Blog Page",
@@ -172,7 +172,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Luno_Blog_Page_0_document_1_laptop.png",
-        "test": "../bitmaps_test/20191101-163030/backstop_default_Luno_Blog_Page_0_document_1_laptop.png",
+        "test": "../bitmaps_test/20191101-163910/backstop_default_Luno_Blog_Page_0_document_1_laptop.png",
         "selector": "document",
         "fileName": "backstop_default_Luno_Blog_Page_0_document_1_laptop.png",
         "label": "Luno Blog Page",
@@ -196,7 +196,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Luno_Price_Page_0_document_0_phone.png",
-        "test": "../bitmaps_test/20191101-163030/backstop_default_Luno_Price_Page_0_document_0_phone.png",
+        "test": "../bitmaps_test/20191101-163910/backstop_default_Luno_Price_Page_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Luno_Price_Page_0_document_0_phone.png",
         "label": "Luno Price Page",
@@ -220,7 +220,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Luno_Price_Page_0_document_1_laptop.png",
-        "test": "../bitmaps_test/20191101-163030/backstop_default_Luno_Price_Page_0_document_1_laptop.png",
+        "test": "../bitmaps_test/20191101-163910/backstop_default_Luno_Price_Page_0_document_1_laptop.png",
         "selector": "document",
         "fileName": "backstop_default_Luno_Price_Page_0_document_1_laptop.png",
         "label": "Luno Price Page",
@@ -244,7 +244,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Luno_Careers_Page_0_document_0_phone.png",
-        "test": "../bitmaps_test/20191101-163030/backstop_default_Luno_Careers_Page_0_document_0_phone.png",
+        "test": "../bitmaps_test/20191101-163910/backstop_default_Luno_Careers_Page_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Luno_Careers_Page_0_document_0_phone.png",
         "label": "Luno Careers Page",
@@ -268,7 +268,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Luno_Careers_Page_0_document_1_laptop.png",
-        "test": "../bitmaps_test/20191101-163030/backstop_default_Luno_Careers_Page_0_document_1_laptop.png",
+        "test": "../bitmaps_test/20191101-163910/backstop_default_Luno_Careers_Page_0_document_1_laptop.png",
         "selector": "document",
         "fileName": "backstop_default_Luno_Careers_Page_0_document_1_laptop.png",
         "label": "Luno Careers Page",
@@ -292,7 +292,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Luno_Jobs_Page_0_document_0_phone.png",
-        "test": "../bitmaps_test/20191101-163030/backstop_default_Luno_Jobs_Page_0_document_0_phone.png",
+        "test": "../bitmaps_test/20191101-163910/backstop_default_Luno_Jobs_Page_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Luno_Jobs_Page_0_document_0_phone.png",
         "label": "Luno Jobs Page",
@@ -316,7 +316,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Luno_Jobs_Page_0_document_1_laptop.png",
-        "test": "../bitmaps_test/20191101-163030/backstop_default_Luno_Jobs_Page_0_document_1_laptop.png",
+        "test": "../bitmaps_test/20191101-163910/backstop_default_Luno_Jobs_Page_0_document_1_laptop.png",
         "selector": "document",
         "fileName": "backstop_default_Luno_Jobs_Page_0_document_1_laptop.png",
         "label": "Luno Jobs Page",
@@ -340,7 +340,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Luno_Who_We_Are_Page_0_document_0_phone.png",
-        "test": "../bitmaps_test/20191101-163030/backstop_default_Luno_Who_We_Are_Page_0_document_0_phone.png",
+        "test": "../bitmaps_test/20191101-163910/backstop_default_Luno_Who_We_Are_Page_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Luno_Who_We_Are_Page_0_document_0_phone.png",
         "label": "Luno Who We Are Page",
@@ -356,17 +356,15 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.97",
-          "analysisTime": 109
-        },
-        "diffImage": "../bitmaps_test/20191101-163030/failed_diff_backstop_default_Luno_Who_We_Are_Page_0_document_0_phone.png"
+          "misMatchPercentage": "0.00"
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Luno_Who_We_Are_Page_0_document_1_laptop.png",
-        "test": "../bitmaps_test/20191101-163030/backstop_default_Luno_Who_We_Are_Page_0_document_1_laptop.png",
+        "test": "../bitmaps_test/20191101-163910/backstop_default_Luno_Who_We_Are_Page_0_document_1_laptop.png",
         "selector": "document",
         "fileName": "backstop_default_Luno_Who_We_Are_Page_0_document_1_laptop.png",
         "label": "Luno Who We Are Page",
@@ -382,12 +380,10 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "5.10",
-          "analysisTime": 251
-        },
-        "diffImage": "../bitmaps_test/20191101-163030/failed_diff_backstop_default_Luno_Who_We_Are_Page_0_document_1_laptop.png"
+          "misMatchPercentage": "0.00"
+        }
       },
-      "status": "fail"
+      "status": "pass"
     }
   ],
   "id": "backstop_default"
